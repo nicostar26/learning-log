@@ -1,5 +1,7 @@
 # Learning Tracker
 
+Hello! Welcome to my learning tracker! This is an in depth review of my history as a developer. I will be updating this periodically as I learn. I'm using it as a tool to see where I stand to see where I need improvement and where I can move forward.
+
 ### Dates:
 **2018**
 [2018](Dates/2018.md)
