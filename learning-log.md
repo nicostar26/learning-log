@@ -11,9 +11,11 @@
 
 | Tool              | Rating  |
 | ----------------- | -------:|
-| HTML              | :high_heel::high_heel::high_heel: |
-| CSS               | :high_heel::high_heel:           |
+| HTML              | :high_heel: :high_heel: :high_heel: |
+| CSS               | :high_heel: :high_heel:           |
 | JavaScript        | :high_heel:   |
+| Grid | :high_heel: :high_heel: |
+
 
 
 
