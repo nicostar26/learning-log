@@ -9,12 +9,17 @@
 
 ### Tool Tracker:
 
- Tool              | Rating  
+ Tool              | Progress  
  ----------------- | -------
  HTML              | :high_heel: :high_heel: :high_heel: 
  CSS               | :high_heel: :high_heel:           
  JavaScript        | :high_heel:   
  Grid | :high_heel: :high_heel: 
+ Bootstrap | :high_heel: 
+ git | :high_heel:
+ GitHub | :high_heel:
+ PHP | 
+ WordPress | :high_heel:
 
 
 
