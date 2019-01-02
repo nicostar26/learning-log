@@ -9,12 +9,12 @@
 
 ### Tool Tracker:
 
-| Tool              | Rating  |
-| ----------------- | -------:|
-| HTML              | :high_heel: :high_heel: :high_heel: |
-| CSS               | :high_heel: :high_heel:           |
-| JavaScript        | :high_heel:   |
-| Grid | :high_heel: :high_heel: |
+ Tool              | Rating  
+ ----------------- | -------
+ HTML              | :high_heel: :high_heel: :high_heel: 
+ CSS               | :high_heel: :high_heel:           
+ JavaScript        | :high_heel:   
+ Grid | :high_heel: :high_heel: 
 
 
 
