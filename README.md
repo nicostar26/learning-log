@@ -22,6 +22,10 @@ Hello! Welcome to my learning tracker! This is an in depth review of my history 
  PHP | 
  WordPress | :high_heel:
 
+ ## Testing images
+
+ ![](img/fitnesslogo.png)
+
 
 
 
