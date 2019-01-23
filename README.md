@@ -1,6 +1,8 @@
 # Learning Tracker
 
-Hello! Welcome to my learning tracker! This is an in depth review of my history as a developer. I will be updating this periodically as I learn. I'm using it as a tool to see where I stand to see where I need improvement and where I can move forward.
+Hello! Welcome to my skills tracker! 
+
+This is an in depth review of my history as a developer.
 
 ### Dates:
 
@@ -19,8 +21,12 @@ Hello! Welcome to my learning tracker! This is an in depth review of my history 
  Bootstrap | :high_heel: 
  git | :high_heel:
  GitHub | :high_heel:
- PHP | 
- WordPress | :high_heel:
+ PHP | :high_heel:
+ WordPress Building | :high_heel: :high_heel:
+ WordPress Dev | 
+ Wix | :high_heel: :high_heel: :high_heel:
+ Adobe Photoshop | :high_heel: :high_heel:
+ Adobe Illustrator | :high_heel:
 
 
 
