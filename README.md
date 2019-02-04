@@ -16,7 +16,8 @@ This is an in depth review of my history as a developer.
  ----------------- | -------
  HTML              | :high_heel: :high_heel: :high_heel: 
  CSS               | :high_heel: :high_heel:           
- JavaScript        | :high_heel:   
+ JavaScript        | :high_heel:  
+ React | 
  Grid | :high_heel: :high_heel: 
  Bootstrap | :high_heel: 
  git | :high_heel:
