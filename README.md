@@ -28,6 +28,7 @@ This is an in depth review of my history as a developer.
  Wix | :high_heel: :high_heel: :high_heel:
  Adobe Photoshop | :high_heel: :high_heel:
  Adobe Illustrator | :high_heel:
+ Adobe XD | :high_heel:
 
 
 
